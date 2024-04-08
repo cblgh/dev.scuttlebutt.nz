@@ -19,7 +19,7 @@ Language               | Name | Status | In production
 [Node.js](javascript/) | N/A, see [SSBC](https://github.com/orgs/ssbc/repositories?language=javascript&type=all) | Stable | ✓ 
 [Go](golang/)          | [`go-ssb`](https://github.com/ssbc/go-ssb) | Alpha | ✓
 [Go](golang/)          | [`scuttlego`](https://github.com/planetary-social/scuttlego) | Alpha (?) | ?
-[Rust](rust/)          | N/A, see [Kuska-SSB](https://github.com/Kuska-ssb) | Pre-alpha (?) | ?
+[Rust](rust/)          | [`solar`](https://github.com/mycognosist/solar) | Alpha (?) | ?
 [Python](python/)      | [`pyssb`](https://github.com/pferreir/pyssb) | Pre-alpha (?) | No
 
 ## Learn some core ideas
