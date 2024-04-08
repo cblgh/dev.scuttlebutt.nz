@@ -107,7 +107,7 @@ If you'd like an erotic representation of the Secret Handshake Protocol, you can
 - [dev.scuttlebutt.nz](https://dev.scuttlebutt.nz) ([sources](https://github.com/ssbc/dev.scuttlebutt.nz))
 - [handbook.scuttlebutt.nz](https://handbook.scuttlebutt.nz) ([sources](https://github.com/ssbc/handbook.scuttlebutt.nz))
 - [scuttlebot.io](https://scuttlebot.io) ([sources](https://git.scuttlebot.io/%25hg8wG6xCDKVWoPYCS84HY7Adrd6JEUYoM23%2BGwn24I4%3D.sha256) (`git-ssb`))
-- [scuttlebutt.eu](https://scuttlebutt.eu) ([sources](https://github.com/scuttlebutt-eu/scuttlebutt-eu.github.io))
+- [scuttlebutt.eu (defunct)](https://github.com/scuttlebutt-eu/important-documents)
 - [scuttlebutt.nz](https://scuttlebutt.nz) ([sources](https://gitlab.com/ssbc/scuttlebutt.nz))
 - [ssbc.github.io](https://ssbc.github.io) ([sources](https://github.com/ssbc/ssbc.github.io))
 
